@@ -1,0 +1,3 @@
+nodemon -when we use app.listen() for listening, if we change the console message, the server needs to be stopped and restarted again which is very time taking.
+        -By automating the restart process, nodemon improves the developer experience. Developers can focus on writing code without the interruption of stopping and restarting the server after every code change.
+so we use a package called nodemon;
